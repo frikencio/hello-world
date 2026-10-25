@@ -1,0 +1,25 @@
+#https://python.org
+
+# comentario en una linea
+
+"""
+comentario en 
+varias
+lineas
+"""
+
+my_variable = "mi variable"
+my_variable = "nuevo valor de la variable
+
+MY_CONSTANTE = "my constante" # no cambiar porque es constante 
+
+my_int = 1  # representacion de una unidad
+my_float = 1.1  #representacion de una variante que acepta una unidad con desimal
+
+my_bool = true
+my_bool = false
+
+my_string = "mi cadena de texto"
+my_other_string = 'mi otra cadena de texto' #reprecentada por una coma simple 
+
+print("!hola python otra vez io¡")
